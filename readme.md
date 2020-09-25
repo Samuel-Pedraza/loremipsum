@@ -9,10 +9,10 @@ This way it's right at my side whenever I need it.
 
 It's a small project, but probably one of my favorite things I've ever made.
 
-#How to Use
+# How to Use
 
 Download it, go to chrome://extensions, click "developer mode", and then click "Load unpacked extension...". That's all!
 
-#Development
+# Development
 
 If you think you can make some improvements to it, please feel free! I'd love for anyone to make an improvement on my little ole' app.
